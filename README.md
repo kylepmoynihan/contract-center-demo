@@ -40,8 +40,8 @@ This is a portfolio demonstration project showcasing a modern web application fo
 
 ```bash
 # Clone the repository
-git clone https://github.com/kylepmoynihan/RECC-Demo.git
-cd RECC-Demo
+git clone https://github.com/kylepmoynihan/contract-center-demo.git
+cd contract-center-demo
 
 # Install dependencies
 npm install
@@ -62,7 +62,7 @@ The dashboard will load with 20 synthetic lease contracts distributed globally.
 ## 📁 Project Structure
 
 ```
-RECC-Demo/
+contract-center-demo/
 ├── src/
 │   ├── frontend/
 │   │   ├── App.jsx              # Main dashboard component
